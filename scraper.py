@@ -8,7 +8,7 @@ import urllib
 urllist=[]
 url1="http://www.bisy.be/"
 
-fname = "test2.txt"
+fname = "pagesources.txt"
 fh = open(fname)
 for line in fh:
 	line = line.rstrip()
