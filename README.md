@@ -1,5 +1,5 @@
-# scraper
-Data scraper to scrape data from Belgian companies.
+# scraper for www.bisy.be
+Data scraper to scrape data from Belgian companies from the bisy.be website.
 
 I needed specific data from certain companies in Belgium. Therefore I used the website www.bisy.be and checked the page sources to find the URL's of the companies I was looking for.
 
