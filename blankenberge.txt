@@ -1,0 +1,2537 @@
+
+                        <div class="span8 resultats cc_row">
+                                    <div id="resultatDivId">
+                                        <div id="seoProdListBE0286461" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/gerron-bvba/be0286461/" title="Gerron BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Gerron&#x20;BVBA" title="Gerron&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0286461" href="https://be.kompass.com/c/gerron-bvba/be0286461/" title="Gerron BVBA" class="productMainLink">
+            <p class="company-title">Gerron BVBA</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0286461" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0285789" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/schoonmaakbedrijf-de-kust-bvba/be0285789/" title="Schoonmaakbedrijf De Kust BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Schoonmaakbedrijf&#x20;De&#x20;Kust&#x20;BVBA" title="Schoonmaakbedrijf&#x20;De&#x20;Kust&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0285789" href="https://be.kompass.com/c/schoonmaakbedrijf-de-kust-bvba/be0285789/" title="Schoonmaakbedrijf De Kust BVBA" class="productMainLink">
+            <p class="company-title">Schoonmaakbedrijf De Kust BVBA</p>
+
+            <p class="product-summary">Schoonmaakbedrijf</p>
+            <p id="BE0285789" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0277455" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/desoete-bvba/be0277455/" title="Desoete BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Desoete&#x20;BVBA" title="Desoete&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0277455" href="https://be.kompass.com/c/desoete-bvba/be0277455/" title="Desoete BVBA" class="productMainLink">
+            <p class="company-title">Desoete BVBA</p>
+
+            <p class="product-summary">Goederenvervoer over de weg</p>
+            <p id="BE0277455" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0286041" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/dilan-bvba/be0286041/" title="Dilan BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Dilan&#x20;BVBA" title="Dilan&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0286041" href="https://be.kompass.com/c/dilan-bvba/be0286041/" title="Dilan BVBA" class="productMainLink">
+            <p class="company-title">Dilan BVBA</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0286041" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0286050" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/riant-sejour-nv/be0286050/" title="Riant Sejour NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Riant&#x20;Sejour&#x20;NV" title="Riant&#x20;Sejour&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0286050" href="https://be.kompass.com/c/riant-sejour-nv/be0286050/" title="Riant Sejour NV" class="productMainLink">
+            <p class="company-title">Riant Sejour NV</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0286050" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0279433" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/gooris-evba/be0279433/" title="Gooris EVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Gooris&#x20;EVBA" title="Gooris&#x20;EVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0279433" href="https://be.kompass.com/c/gooris-evba/be0279433/" title="Gooris EVBA" class="productMainLink">
+            <p class="company-title">Gooris EVBA</p>
+
+            <p class="product-summary">Binderijen en aanverwante diensten</p>
+            <p id="BE0279433" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0313731" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/elewaut-co-bvba/be0313731/" title="Elewaut &amp; Co BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Elewaut&#x20;&amp;amp&#x3b;&#x20;Co&#x20;BVBA" title="Elewaut&#x20;&amp;amp&#x3b;&#x20;Co&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0313731" href="https://be.kompass.com/c/elewaut-co-bvba/be0313731/" title="Elewaut &amp; Co BVBA" class="productMainLink">
+            <p class="company-title">Elewaut &amp; Co BVBA</p>
+
+            <p class="product-summary">Activiteiten van hoofdkantoren</p>
+            <p id="BE0313731" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/new-city-nv/be0342035/" title="New City NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="New&#x20;City&#x20;NV" title="New&#x20;City&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0342035" href="https://be.kompass.com/c/new-city-nv/be0342035/" title="New City NV" class="productMainLink">
+            <p class="company-title">New City NV</p>
+
+            <p id="BE0342035" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0345236" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/wymeels-jurgen-m/be0345236/" title="Wymeels Jurgen M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Wymeels&#x20;Jurgen&#x20;M" title="Wymeels&#x20;Jurgen&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0345236" href="https://be.kompass.com/c/wymeels-jurgen-m/be0345236/" title="Wymeels Jurgen M" class="productMainLink">
+            <p class="company-title">Wymeels Jurgen M</p>
+
+            <p id="BE0345236" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0351822" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/t-schoonschip-vzw/be0351822/" title="&#039;T Schoonschip VZW" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="&amp;&#x23;039&#x3b;T&#x20;Schoonschip&#x20;VZW" title="&amp;&#x23;039&#x3b;T&#x20;Schoonschip&#x20;VZW"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0351822" href="https://be.kompass.com/c/t-schoonschip-vzw/be0351822/" title="&#039;T Schoonschip VZW" class="productMainLink">
+            <p class="company-title">&#039;T Schoonschip VZW</p>
+
+            <p id="BE0351822" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0340873" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/dl-meat-bvba/be0340873/" title="Dl Meat BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Dl&#x20;Meat&#x20;BVBA" title="Dl&#x20;Meat&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0340873" href="https://be.kompass.com/c/dl-meat-bvba/be0340873/" title="Dl Meat BVBA" class="productMainLink">
+            <p class="company-title">Dl Meat BVBA</p>
+
+            <p id="BE0340873" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0334658" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/het-lindenhof-cvba/be0334658/" title="Het Lindenhof CVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Het&#x20;Lindenhof&#x20;CVBA" title="Het&#x20;Lindenhof&#x20;CVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0334658" href="https://be.kompass.com/c/het-lindenhof-cvba/be0334658/" title="Het Lindenhof CVBA" class="productMainLink">
+            <p class="company-title">Het Lindenhof CVBA</p>
+
+            <p id="BE0334658" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0337830" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/belamco-nv/be0337830/" title="Belamco NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Belamco&#x20;NV" title="Belamco&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0337830" href="https://be.kompass.com/c/belamco-nv/be0337830/" title="Belamco NV" class="productMainLink">
+            <p class="company-title">Belamco NV</p>
+
+            <p id="BE0337830" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0348241" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/sabbe-jean-louis-m/be0348241/" title="Sabbe Jean-Louis M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Sabbe&#x20;Jean-Louis&#x20;M" title="Sabbe&#x20;Jean-Louis&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0348241" href="https://be.kompass.com/c/sabbe-jean-louis-m/be0348241/" title="Sabbe Jean-Louis M" class="productMainLink">
+            <p class="company-title">Sabbe Jean-Louis M</p>
+
+            <p id="BE0348241" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0349370" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/g-c-bvba/be0349370/" title="G C BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="G&#x20;C&#x20;BVBA" title="G&#x20;C&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0349370" href="https://be.kompass.com/c/g-c-bvba/be0349370/" title="G C BVBA" class="productMainLink">
+            <p class="company-title">G C BVBA</p>
+
+            <p id="BE0349370" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0342186" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/poetsdienst-acw-blankenberge-vzw/be0342186/" title="Poetsdienst Acw Blankenberge VZW" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Poetsdienst&#x20;Acw&#x20;Blankenberge&#x20;VZW" title="Poetsdienst&#x20;Acw&#x20;Blankenberge&#x20;VZW"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0342186" href="https://be.kompass.com/c/poetsdienst-acw-blankenberge-vzw/be0342186/" title="Poetsdienst Acw Blankenberge VZW" class="productMainLink">
+            <p class="company-title">Poetsdienst Acw Blankenberge VZW</p>
+
+            <p id="BE0342186" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374188" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/scheepswerven-jan-vandamme/be0374188/" title="Scheepswerven Jan Vandamme" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Scheepswerven&#x20;Jan&#x20;Vandamme" title="Scheepswerven&#x20;Jan&#x20;Vandamme"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374188" href="https://be.kompass.com/c/scheepswerven-jan-vandamme/be0374188/" title="Scheepswerven Jan Vandamme" class="productMainLink">
+            <p class="company-title">Scheepswerven Jan Vandamme</p>
+
+            <p id="BE0374188" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Brugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374192" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/legrand-invest/be0374192/" title="Legrand Invest" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Legrand&#x20;Invest" title="Legrand&#x20;Invest"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374192" href="https://be.kompass.com/c/legrand-invest/be0374192/" title="Legrand Invest" class="productMainLink">
+            <p class="company-title">Legrand Invest</p>
+
+            <p id="BE0374192" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374195" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/vantomme-tim/be0374195/" title="Vantomme Tim (Alltechnics)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Vantomme&#x20;Tim&#x20;&#x28;Alltechnics&#x29;" title="Vantomme&#x20;Tim&#x20;&#x28;Alltechnics&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374195" href="https://be.kompass.com/c/vantomme-tim/be0374195/" title="Vantomme Tim (Alltechnics)" class="productMainLink">
+            <p class="company-title">Vantomme Tim (Alltechnics)</p>
+
+            <p id="BE0374195" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374229" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/c-dd/be0374229/" title="C&amp;dd (C&amp;ddbvba)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="C&amp;amp&#x3b;dd&#x20;&#x28;C&amp;amp&#x3b;ddbvba&#x29;" title="C&amp;amp&#x3b;dd&#x20;&#x28;C&amp;amp&#x3b;ddbvba&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374229" href="https://be.kompass.com/c/c-dd/be0374229/" title="C&amp;dd (C&amp;ddbvba)" class="productMainLink">
+            <p class="company-title">C&amp;dd (C&amp;ddbvba)</p>
+
+            <p id="BE0374229" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374186" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/werner-aerts/be0374186/" title="Werner Aerts" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Werner&#x20;Aerts" title="Werner&#x20;Aerts"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374186" href="https://be.kompass.com/c/werner-aerts/be0374186/" title="Werner Aerts" class="productMainLink">
+            <p class="company-title">Werner Aerts</p>
+
+            <p id="BE0374186" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374191" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/electro-dejaeghere/be0374191/" title="Electro Dejaeghere (Dejaeghereluc)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Electro&#x20;Dejaeghere&#x20;&#x28;Dejaeghereluc&#x29;" title="Electro&#x20;Dejaeghere&#x20;&#x28;Dejaeghereluc&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374191" href="https://be.kompass.com/c/electro-dejaeghere/be0374191/" title="Electro Dejaeghere (Dejaeghereluc)" class="productMainLink">
+            <p class="company-title">Electro Dejaeghere (Dejaeghereluc)</p>
+
+            <p id="BE0374191" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374206" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/chinees-restaurant-panda/be0374206/" title="Chinees Restaurant Panda" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Chinees&#x20;Restaurant&#x20;Panda" title="Chinees&#x20;Restaurant&#x20;Panda"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374206" href="https://be.kompass.com/c/chinees-restaurant-panda/be0374206/" title="Chinees Restaurant Panda" class="productMainLink">
+            <p class="company-title">Chinees Restaurant Panda</p>
+
+            <p id="BE0374206" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374214" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/firma-paul-vander-cruysse/be0374214/" title="Firma Paul Vander Cruysse (Vander Cruysse Nv, Firma Gilbert Pvba / Firma Paul Vandercruysse)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Firma&#x20;Paul&#x20;Vander&#x20;Cruysse&#x20;&#x28;Vander&#x20;Cruysse&#x20;Nv,&#x20;Firma&#x20;Gilbert&#x20;Pvba&#x20;&#x2f;&#x20;Firma&#x20;Paul&#x20;Vandercruysse&#x29;" title="Firma&#x20;Paul&#x20;Vander&#x20;Cruysse&#x20;&#x28;Vander&#x20;Cruysse&#x20;Nv,&#x20;Firma&#x20;Gilbert&#x20;Pvba&#x20;&#x2f;&#x20;Firma&#x20;Paul&#x20;Vandercruysse&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374214" href="https://be.kompass.com/c/firma-paul-vander-cruysse/be0374214/" title="Firma Paul Vander Cruysse (Vander Cruysse Nv, Firma Gilbert Pvba / Firma Paul Vandercruysse)" class="productMainLink">
+            <p class="company-title">Firma Paul Vander Cruysse (Vander Cruysse Nv, Firma Gilbert Pvba / Firma Paul Vandercruysse)</p>
+
+            <p id="BE0374214" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374222" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/van-de-sompele-werenfried/be0374222/" title="Van De Sompele Werenfried" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Van&#x20;De&#x20;Sompele&#x20;Werenfried" title="Van&#x20;De&#x20;Sompele&#x20;Werenfried"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374222" href="https://be.kompass.com/c/van-de-sompele-werenfried/be0374222/" title="Van De Sompele Werenfried" class="productMainLink">
+            <p class="company-title">Van De Sompele Werenfried</p>
+
+            <p id="BE0374222" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374244" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/demeyere-jan/be0374244/" title="Demeyere Jan" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Demeyere&#x20;Jan" title="Demeyere&#x20;Jan"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374244" href="https://be.kompass.com/c/demeyere-jan/be0374244/" title="Demeyere Jan" class="productMainLink">
+            <p class="company-title">Demeyere Jan</p>
+
+            <p id="BE0374244" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374196" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/hotel-tropicana/be0374196/" title="Hotel Tropicana (Tropicana)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Hotel&#x20;Tropicana&#x20;&#x28;Tropicana&#x29;" title="Hotel&#x20;Tropicana&#x20;&#x28;Tropicana&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374196" href="https://be.kompass.com/c/hotel-tropicana/be0374196/" title="Hotel Tropicana (Tropicana)" class="productMainLink">
+            <p class="company-title">Hotel Tropicana (Tropicana)</p>
+
+            <p id="BE0374196" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374193" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/grand-service/be0374193/" title="Grand Service" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Grand&#x20;Service" title="Grand&#x20;Service"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374193" href="https://be.kompass.com/c/grand-service/be0374193/" title="Grand Service" class="productMainLink">
+            <p class="company-title">Grand Service</p>
+
+            <p id="BE0374193" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374216" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/misson-mark-aannemingswerken/be0374216/" title="Misson Mark Aannemingswerken" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Misson&#x20;Mark&#x20;Aannemingswerken" title="Misson&#x20;Mark&#x20;Aannemingswerken"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374216" href="https://be.kompass.com/c/misson-mark-aannemingswerken/be0374216/" title="Misson Mark Aannemingswerken" class="productMainLink">
+            <p class="company-title">Misson Mark Aannemingswerken</p>
+
+            <p id="BE0374216" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374212" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bulckaert-johny/be0374212/" title="Bulckaert Johny" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bulckaert&#x20;Johny" title="Bulckaert&#x20;Johny"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374212" href="https://be.kompass.com/c/bulckaert-johny/be0374212/" title="Bulckaert Johny" class="productMainLink">
+            <p class="company-title">Bulckaert Johny</p>
+
+            <p id="BE0374212" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374233" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/lambrechts-gregory/be0374233/" title="Lambrechts Gregory" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Lambrechts&#x20;Gregory" title="Lambrechts&#x20;Gregory"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374233" href="https://be.kompass.com/c/lambrechts-gregory/be0374233/" title="Lambrechts Gregory" class="productMainLink">
+            <p class="company-title">Lambrechts Gregory</p>
+
+            <p id="BE0374233" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374237" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/cloetens/be0374237/" title="Cloetens" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Cloetens" title="Cloetens"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374237" href="https://be.kompass.com/c/cloetens/be0374237/" title="Cloetens" class="productMainLink">
+            <p class="company-title">Cloetens</p>
+
+            <p id="BE0374237" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0361483" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/gooris-binding-services/be0361483/" title="Gooris Binding Services" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Gooris&#x20;Binding&#x20;Services" title="Gooris&#x20;Binding&#x20;Services"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0361483" href="https://be.kompass.com/c/gooris-binding-services/be0361483/" title="Gooris Binding Services" class="productMainLink">
+            <p class="company-title">Gooris Binding Services</p>
+
+            <p id="BE0361483" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374235" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/fs-group/be0374235/" title="Fs Group (FS Group)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Fs&#x20;Group&#x20;&#x28;FS&#x20;Group&#x29;" title="Fs&#x20;Group&#x20;&#x28;FS&#x20;Group&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374235" href="https://be.kompass.com/c/fs-group/be0374235/" title="Fs Group (FS Group)" class="productMainLink">
+            <p class="company-title">Fs Group (FS Group)</p>
+
+            <p id="BE0374235" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374255" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/hoeve-ten-doele/be0374255/" title="Hoeve Ten Doele" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Hoeve&#x20;Ten&#x20;Doele" title="Hoeve&#x20;Ten&#x20;Doele"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374255" href="https://be.kompass.com/c/hoeve-ten-doele/be0374255/" title="Hoeve Ten Doele" class="productMainLink">
+            <p class="company-title">Hoeve Ten Doele</p>
+
+            <p id="BE0374255" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374209" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/ponjaert-raphael/be0374209/" title="Ponjaert Raphael" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Ponjaert&#x20;Raphael" title="Ponjaert&#x20;Raphael"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374209" href="https://be.kompass.com/c/ponjaert-raphael/be0374209/" title="Ponjaert Raphael" class="productMainLink">
+            <p class="company-title">Ponjaert Raphael</p>
+
+            <p id="BE0374209" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374238" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/van-de-velde-bert/be0374238/" title="Van De Velde Bert" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Van&#x20;De&#x20;Velde&#x20;Bert" title="Van&#x20;De&#x20;Velde&#x20;Bert"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374238" href="https://be.kompass.com/c/van-de-velde-bert/be0374238/" title="Van De Velde Bert" class="productMainLink">
+            <p class="company-title">Van De Velde Bert</p>
+
+            <p id="BE0374238" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374243" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/north-sea-boating-bvba/be0374243/" title="North Sea Boating Bvba" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="North&#x20;Sea&#x20;Boating&#x20;Bvba" title="North&#x20;Sea&#x20;Boating&#x20;Bvba"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374243" href="https://be.kompass.com/c/north-sea-boating-bvba/be0374243/" title="North Sea Boating Bvba" class="productMainLink">
+            <p class="company-title">North Sea Boating Bvba</p>
+
+            <p id="BE0374243" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374190" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/labbadia-vittorio/be0374190/" title="Labbadia Vittorio" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Labbadia&#x20;Vittorio" title="Labbadia&#x20;Vittorio"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374190" href="https://be.kompass.com/c/labbadia-vittorio/be0374190/" title="Labbadia Vittorio" class="productMainLink">
+            <p class="company-title">Labbadia Vittorio</p>
+
+            <p id="BE0374190" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374211" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/lagrou-filip/be0374211/" title="Lagrou Filip" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Lagrou&#x20;Filip" title="Lagrou&#x20;Filip"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374211" href="https://be.kompass.com/c/lagrou-filip/be0374211/" title="Lagrou Filip" class="productMainLink">
+            <p class="company-title">Lagrou Filip</p>
+
+            <p id="BE0374211" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0375212" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/m-m-verwarming-bvba/be0375212/" title="M &amp; M Verwarming Bvba" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="M&#x20;&amp;amp&#x3b;&#x20;M&#x20;Verwarming&#x20;Bvba" title="M&#x20;&amp;amp&#x3b;&#x20;M&#x20;Verwarming&#x20;Bvba"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0375212" href="https://be.kompass.com/c/m-m-verwarming-bvba/be0375212/" title="M &amp; M Verwarming Bvba" class="productMainLink">
+            <p class="company-title">M &amp; M Verwarming Bvba</p>
+
+            <p id="BE0375212" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0354907" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/buyle/be0354907/" title="Buyle (Poureli)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Buyle&#x20;&#x28;Poureli&#x29;" title="Buyle&#x20;&#x28;Poureli&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0354907" href="https://be.kompass.com/c/buyle/be0354907/" title="Buyle (Poureli)" class="productMainLink">
+            <p class="company-title">Buyle (Poureli)</p>
+
+            <p id="BE0354907" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374189" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bobonne/be0374189/" title="Bobonne" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bobonne" title="Bobonne"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374189" href="https://be.kompass.com/c/bobonne/be0374189/" title="Bobonne" class="productMainLink">
+            <p class="company-title">Bobonne</p>
+
+            <p id="BE0374189" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374202" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/van-craeynest-stefaan/be0374202/" title="Van Craeynest Stefaan (A.s.b.)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Van&#x20;Craeynest&#x20;Stefaan&#x20;&#x28;A.s.b.&#x29;" title="Van&#x20;Craeynest&#x20;Stefaan&#x20;&#x28;A.s.b.&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374202" href="https://be.kompass.com/c/van-craeynest-stefaan/be0374202/" title="Van Craeynest Stefaan (A.s.b.)" class="productMainLink">
+            <p class="company-title">Van Craeynest Stefaan (A.s.b.)</p>
+
+            <p id="BE0374202" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374218" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/moerman-andre/be0374218/" title="Moerman Andre (Borsalino / Het Gietekietje)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Moerman&#x20;Andre&#x20;&#x28;Borsalino&#x20;&#x2f;&#x20;Het&#x20;Gietekietje&#x29;" title="Moerman&#x20;Andre&#x20;&#x28;Borsalino&#x20;&#x2f;&#x20;Het&#x20;Gietekietje&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374218" href="https://be.kompass.com/c/moerman-andre/be0374218/" title="Moerman Andre (Borsalino / Het Gietekietje)" class="productMainLink">
+            <p class="company-title">Moerman Andre (Borsalino / Het Gietekietje)</p>
+
+            <p id="BE0374218" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374228" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bakkerij-debedts/be0374228/" title="Bakkerij Debedts (Bakkerij Debedts)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bakkerij&#x20;Debedts&#x20;&#x28;Bakkerij&#x20;Debedts&#x29;" title="Bakkerij&#x20;Debedts&#x20;&#x28;Bakkerij&#x20;Debedts&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374228" href="https://be.kompass.com/c/bakkerij-debedts/be0374228/" title="Bakkerij Debedts (Bakkerij Debedts)" class="productMainLink">
+            <p class="company-title">Bakkerij Debedts (Bakkerij Debedts)</p>
+
+            <p id="BE0374228" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374245" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/pedavi/be0374245/" title="Pedavi" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Pedavi" title="Pedavi"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374245" href="https://be.kompass.com/c/pedavi/be0374245/" title="Pedavi" class="productMainLink">
+            <p class="company-title">Pedavi</p>
+
+            <p id="BE0374245" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374248" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/ketels/be0374248/" title="Ketels (BO Jangles / Picardi)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Ketels&#x20;&#x28;BO&#x20;Jangles&#x20;&#x2f;&#x20;Picardi&#x29;" title="Ketels&#x20;&#x28;BO&#x20;Jangles&#x20;&#x2f;&#x20;Picardi&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374248" href="https://be.kompass.com/c/ketels/be0374248/" title="Ketels (BO Jangles / Picardi)" class="productMainLink">
+            <p class="company-title">Ketels (BO Jangles / Picardi)</p>
+
+            <p id="BE0374248" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374204" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bronier-welding/be0374204/" title="Bronier Welding" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bronier&#x20;Welding" title="Bronier&#x20;Welding"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374204" href="https://be.kompass.com/c/bronier-welding/be0374204/" title="Bronier Welding" class="productMainLink">
+            <p class="company-title">Bronier Welding</p>
+
+            <p id="BE0374204" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374210" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/manor-ghent/be0374210/" title="Manor Ghent" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Manor&#x20;Ghent" title="Manor&#x20;Ghent"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374210" href="https://be.kompass.com/c/manor-ghent/be0374210/" title="Manor Ghent" class="productMainLink">
+            <p class="company-title">Manor Ghent</p>
+
+            <p id="BE0374210" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374217" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/folieke/be0374217/" title="Folieke (Folieke)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Folieke&#x20;&#x28;Folieke&#x29;" title="Folieke&#x20;&#x28;Folieke&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374217" href="https://be.kompass.com/c/folieke/be0374217/" title="Folieke (Folieke)" class="productMainLink">
+            <p class="company-title">Folieke (Folieke)</p>
+
+            <p id="BE0374217" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374239" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/shock-fin/be0374239/" title="Shock Fin" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Shock&#x20;Fin" title="Shock&#x20;Fin"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374239" href="https://be.kompass.com/c/shock-fin/be0374239/" title="Shock Fin" class="productMainLink">
+            <p class="company-title">Shock Fin</p>
+
+            <p id="BE0374239" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0374247" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/starlite-king-beach/be0374247/" title="Starlite King Beach (Starlite)" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Starlite&#x20;King&#x20;Beach&#x20;&#x28;Starlite&#x29;" title="Starlite&#x20;King&#x20;Beach&#x20;&#x28;Starlite&#x29;"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0374247" href="https://be.kompass.com/c/starlite-king-beach/be0374247/" title="Starlite King Beach (Starlite)" class="productMainLink">
+            <p class="company-title">Starlite King Beach (Starlite)</p>
+
+            <p id="BE0374247" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Damme, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0329807" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bowl-inn/be0329807/" title="Bowl Inn" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bowl&#x20;Inn" title="Bowl&#x20;Inn"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0329807" href="https://be.kompass.com/c/bowl-inn/be0329807/" title="Bowl Inn" class="productMainLink">
+            <p class="company-title">Bowl Inn</p>
+
+            <p class="product-summary">Bowlingbaan</p>
+            <p id="BE0329807" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0525830" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/corsendonk-duinse-polders/be0525830/" title="Corsendonk Duinse Polders" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Corsendonk&#x20;Duinse&#x20;Polders" title="Corsendonk&#x20;Duinse&#x20;Polders"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0525830" href="https://be.kompass.com/c/corsendonk-duinse-polders/be0525830/" title="Corsendonk Duinse Polders" class="productMainLink">
+            <p class="company-title">Corsendonk Duinse Polders</p>
+
+            <p class="product-summary">Vakantiecentrum gelegen in Blankenberge op minder dan 100 meter van strand, duinene en zee.</p>
+            <p id="BE0525830" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+</div>
+
+
+        </div>
+</div>
+<div id="seoProdListBE0314237" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/goethals-patrick-m/be0314237/" title="Goethals Patrick M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Goethals&#x20;Patrick&#x20;M" title="Goethals&#x20;Patrick&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0314237" href="https://be.kompass.com/c/goethals-patrick-m/be0314237/" title="Goethals Patrick M" class="productMainLink">
+            <p class="company-title">Goethals Patrick M</p>
+
+            <p class="product-summary">Mediarepresentatie</p>
+            <p id="BE0314237" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0314259" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/dufour-geert-m/be0314259/" title="Dufour Geert M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Dufour&#x20;Geert&#x20;M" title="Dufour&#x20;Geert&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0314259" href="https://be.kompass.com/c/dufour-geert-m/be0314259/" title="Dufour Geert M" class="productMainLink">
+            <p class="company-title">Dufour Geert M</p>
+
+            <p class="product-summary">Andere reinigingsactiviteiten</p>
+            <p id="BE0314259" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0314251" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/special-properties-nv/be0314251/" title="Special Properties NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Special&#x20;Properties&#x20;NV" title="Special&#x20;Properties&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0314251" href="https://be.kompass.com/c/special-properties-nv/be0314251/" title="Special Properties NV" class="productMainLink">
+            <p class="company-title">Special Properties NV</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0314251" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Knokke-heist, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0263028" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/all-round-fitcenter-bvba/be0263028/" title="All Round Fitcenter BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="All&#x20;Round&#x20;Fitcenter&#x20;BVBA" title="All&#x20;Round&#x20;Fitcenter&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0263028" href="https://be.kompass.com/c/all-round-fitcenter-bvba/be0263028/" title="All Round Fitcenter BVBA" class="productMainLink">
+            <p class="company-title">All Round Fitcenter BVBA</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0263028" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0267830" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/brugge-3000-nv/be0267830/" title="Brugge 3000 NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Brugge&#x20;3000&#x20;NV" title="Brugge&#x20;3000&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0267830" href="https://be.kompass.com/c/brugge-3000-nv/be0267830/" title="Brugge 3000 NV" class="productMainLink">
+            <p class="company-title">Brugge 3000 NV</p>
+
+            <p class="product-summary">Handel in eigen onroerend goed</p>
+            <p id="BE0267830" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0212726" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/joris-hugo-partners-bvba/be0212726/" title="Joris Hugo &amp; Partners BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Joris&#x20;Hugo&#x20;&amp;amp&#x3b;&#x20;Partners&#x20;BVBA" title="Joris&#x20;Hugo&#x20;&amp;amp&#x3b;&#x20;Partners&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0212726" href="https://be.kompass.com/c/joris-hugo-partners-bvba/be0212726/" title="Joris Hugo &amp; Partners BVBA" class="productMainLink">
+            <p class="company-title">Joris Hugo &amp; Partners BVBA</p>
+
+            <p class="product-summary">Elektrotechnische installatiewerken aan gebouwen</p>
+            <p id="BE0212726" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0278340" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/avanti-bvba/be0278340/" title="Avanti BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Avanti&#x20;BVBA" title="Avanti&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0278340" href="https://be.kompass.com/c/avanti-bvba/be0278340/" title="Avanti BVBA" class="productMainLink">
+            <p class="company-title">Avanti BVBA</p>
+
+            <p class="product-summary">Algemene reiniging van gebouwen</p>
+            <p id="BE0278340" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0268764" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/de-bist-hermans-bvba/be0268764/" title="De Bist-Hermans BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="De&#x20;Bist-Hermans&#x20;BVBA" title="De&#x20;Bist-Hermans&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0268764" href="https://be.kompass.com/c/de-bist-hermans-bvba/be0268764/" title="De Bist-Hermans BVBA" class="productMainLink">
+            <p class="company-title">De Bist-Hermans BVBA</p>
+
+            <p class="product-summary">Holdings</p>
+            <p id="BE0268764" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0314238" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/delta-inox-nv/be0314238/" title="Delta Inox NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Delta&#x20;Inox&#x20;NV" title="Delta&#x20;Inox&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0314238" href="https://be.kompass.com/c/delta-inox-nv/be0314238/" title="Delta Inox NV" class="productMainLink">
+            <p class="company-title">Delta Inox NV</p>
+
+            <p class="product-summary">Verspanend bewerken van metalen</p>
+            <p id="BE0314238" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0314300" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/la-bretagne-logistics-nv/be0314300/" title="La Bretagne Logistics NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="La&#x20;Bretagne&#x20;Logistics&#x20;NV" title="La&#x20;Bretagne&#x20;Logistics&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0314300" href="https://be.kompass.com/c/la-bretagne-logistics-nv/be0314300/" title="La Bretagne Logistics NV" class="productMainLink">
+            <p class="company-title">La Bretagne Logistics NV</p>
+
+            <p class="product-summary">Handelsbemiddeling in hout en bouwmaterialen</p>
+            <p id="BE0314300" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0284389" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/m-i-c-bvba/be0284389/" title="M.I.C. BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="M.I.C.&#x20;BVBA" title="M.I.C.&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0284389" href="https://be.kompass.com/c/m-i-c-bvba/be0284389/" title="M.I.C. BVBA" class="productMainLink">
+            <p class="company-title">M.I.C. BVBA</p>
+
+            <p class="product-summary">Markt- en opinieonderzoekbureaus</p>
+            <p id="BE0284389" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0281246" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/famipress-cvoh/be0281246/" title="Famipress CVOH" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Famipress&#x20;CVOH" title="Famipress&#x20;CVOH"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0281246" href="https://be.kompass.com/c/famipress-cvoh/be0281246/" title="Famipress CVOH" class="productMainLink">
+            <p class="company-title">Famipress CVOH</p>
+
+            <p class="product-summary">Persagentschappen</p>
+            <p id="BE0281246" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0291967" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/geocon-invest-nv/be0291967/" title="Geocon Invest NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Geocon&#x20;Invest&#x20;NV" title="Geocon&#x20;Invest&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0291967" href="https://be.kompass.com/c/geocon-invest-nv/be0291967/" title="Geocon Invest NV" class="productMainLink">
+            <p class="company-title">Geocon Invest NV</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0291967" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0268953" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/fibema-bvba/be0268953/" title="Fibema BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Fibema&#x20;BVBA" title="Fibema&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0268953" href="https://be.kompass.com/c/fibema-bvba/be0268953/" title="Fibema BVBA" class="productMainLink">
+            <p class="company-title">Fibema BVBA</p>
+
+            <p class="product-summary">Accountants en belastingconsulenten</p>
+            <p id="BE0268953" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0285957" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/hotel-eden-bvba/be0285957/" title="Hotel Eden BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Hotel&#x20;Eden&#x20;BVBA" title="Hotel&#x20;Eden&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0285957" href="https://be.kompass.com/c/hotel-eden-bvba/be0285957/" title="Hotel Eden BVBA" class="productMainLink">
+            <p class="company-title">Hotel Eden BVBA</p>
+
+            <p class="product-summary">Cafés en bars</p>
+            <p id="BE0285957" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0286395" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/hotel-du-commerce-blankenberge-nv/be0286395/" title="Hotel Du Commerce Blankenberge NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Hotel&#x20;Du&#x20;Commerce&#x20;Blankenberge&#x20;NV" title="Hotel&#x20;Du&#x20;Commerce&#x20;Blankenberge&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0286395" href="https://be.kompass.com/c/hotel-du-commerce-blankenberge-nv/be0286395/" title="Hotel Du Commerce Blankenberge NV" class="productMainLink">
+            <p class="company-title">Hotel Du Commerce Blankenberge NV</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0286395" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0322192" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/strubbe-wim-m/be0322192/" title="Strubbe Wim M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Strubbe&#x20;Wim&#x20;M" title="Strubbe&#x20;Wim&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0322192" href="https://be.kompass.com/c/strubbe-wim-m/be0322192/" title="Strubbe Wim M" class="productMainLink">
+            <p class="company-title">Strubbe Wim M</p>
+
+            <p class="product-summary">Opslag</p>
+            <p id="BE0322192" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0047756" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/tapijten-vanraes-bvba/be0047756/" title="Tapijten Vanraes BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Tapijten&#x20;Vanraes&#x20;BVBA" title="Tapijten&#x20;Vanraes&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0047756" href="https://be.kompass.com/c/tapijten-vanraes-bvba/be0047756/" title="Tapijten Vanraes BVBA" class="productMainLink">
+            <p class="company-title">Tapijten Vanraes BVBA</p>
+
+            <p class="product-summary">Binnenhuisinrichting.</p>
+            <p id="BE0047756" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0020363" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/vb-recrea-bvba/be0020363/" title="Vb-Recrea BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Vb-Recrea&#x20;BVBA" title="Vb-Recrea&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0020363" href="https://be.kompass.com/c/vb-recrea-bvba/be0020363/" title="Vb-Recrea BVBA" class="productMainLink">
+            <p class="company-title">Vb-Recrea BVBA</p>
+
+            <p class="product-summary">Overig personenvervoer te land, n.e.g.</p>
+            <p id="BE0020363" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0005935" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/wittevrongel-sails-rigging-industries-bvba/be0005935/" title="Wittevrongel Sails-Rigging Industries BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Wittevrongel&#x20;Sails-Rigging&#x20;Industries&#x20;BVBA" title="Wittevrongel&#x20;Sails-Rigging&#x20;Industries&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0005935" href="https://be.kompass.com/c/wittevrongel-sails-rigging-industries-bvba/be0005935/" title="Wittevrongel Sails-Rigging Industries BVBA" class="productMainLink">
+            <p class="company-title">Wittevrongel Sails-Rigging Industries BVBA</p>
+
+            <p class="product-summary">Verkoop en herstelling van zeilen (Jachten) - Maken van nieuwe zeilen op maat, ontwerp en lay-out computer gestuurd - Leveren en ...</p>
+            <p id="BE0005935" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0008113" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/cobelfret-bulk-carriers-nv/be0008113/" title="Cobelfret Bulk Carriers NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Cobelfret&#x20;Bulk&#x20;Carriers&#x20;NV" title="Cobelfret&#x20;Bulk&#x20;Carriers&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0008113" href="https://be.kompass.com/c/cobelfret-bulk-carriers-nv/be0008113/" title="Cobelfret Bulk Carriers NV" class="productMainLink">
+            <p class="company-title">Cobelfret Bulk Carriers NV</p>
+
+            <p class="product-summary">Vervoer van bulkgoederen - ijzererts - kolen. Shipowners.</p>
+            <p id="BE0008113" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0004964" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/compagnie-belge-d-affretements-nv/be0004964/" title="Compagnie Belge d&#039;Affrêtements NV, Cobelfret" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Compagnie&#x20;Belge&#x20;d&amp;&#x23;039&#x3b;Affr&ecirc;tements&#x20;NV,&#x20;Cobelfret" title="Compagnie&#x20;Belge&#x20;d&amp;&#x23;039&#x3b;Affr&ecirc;tements&#x20;NV,&#x20;Cobelfret"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0004964" href="https://be.kompass.com/c/compagnie-belge-d-affretements-nv/be0004964/" title="Compagnie Belge d&#039;Affrêtements NV, Cobelfret" class="productMainLink">
+            <p class="company-title">Compagnie Belge d&#039;Affrêtements NV, Cobelfret</p>
+
+            <p id="BE0004964" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge-(brugge), België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0277858" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/cher-trans-evba/be0277858/" title="Cher Trans EVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Cher&#x20;Trans&#x20;EVBA" title="Cher&#x20;Trans&#x20;EVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0277858" href="https://be.kompass.com/c/cher-trans-evba/be0277858/" title="Cher Trans EVBA" class="productMainLink">
+            <p class="company-title">Cher Trans EVBA</p>
+
+            <p class="product-summary">Goederenvervoer over de weg</p>
+            <p id="BE0277858" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0269687" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/jhs-invest-nv/be0269687/" title="Jhs-Invest NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Jhs-Invest&#x20;NV" title="Jhs-Invest&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0269687" href="https://be.kompass.com/c/jhs-invest-nv/be0269687/" title="Jhs-Invest NV" class="productMainLink">
+            <p class="company-title">Jhs-Invest NV</p>
+
+            <p class="product-summary">Markt- en opinieonderzoekbureaus</p>
+            <p id="BE0269687" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0275621" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/cuvatra-bvba/be0275621/" title="Cuvatra BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Cuvatra&#x20;BVBA" title="Cuvatra&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0275621" href="https://be.kompass.com/c/cuvatra-bvba/be0275621/" title="Cuvatra BVBA" class="productMainLink">
+            <p class="company-title">Cuvatra BVBA</p>
+
+            <p class="product-summary">Goederenvervoer over de weg</p>
+            <p id="BE0275621" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0252377" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/oesterpark-p-devriendt-nv/be0252377/" title="Oesterpark P. Devriendt NV, Oesterpark Devriendt" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Oesterpark&#x20;P.&#x20;Devriendt&#x20;NV,&#x20;Oesterpark&#x20;Devriendt" title="Oesterpark&#x20;P.&#x20;Devriendt&#x20;NV,&#x20;Oesterpark&#x20;Devriendt"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0252377" href="https://be.kompass.com/c/oesterpark-p-devriendt-nv/be0252377/" title="Oesterpark P. Devriendt NV, Oesterpark Devriendt" class="productMainLink">
+            <p class="company-title">Oesterpark P. Devriendt NV, Oesterpark Devriendt</p>
+
+            <p class="product-summary">Restaurant 250 plaatsen.</p>
+            <p id="BE0252377" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0045382" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/vandenbroucke-cosmetics-nv/be0045382/" title="Vandenbroucke Cosmetics NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Vandenbroucke&#x20;Cosmetics&#x20;NV" title="Vandenbroucke&#x20;Cosmetics&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0045382" href="https://be.kompass.com/c/vandenbroucke-cosmetics-nv/be0045382/" title="Vandenbroucke Cosmetics NV" class="productMainLink">
+            <p class="company-title">Vandenbroucke Cosmetics NV</p>
+
+            <p class="product-summary">Groothandel in parfumerieën en cosmetica</p>
+            <p id="BE0045382" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0046958" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/melkcentrale-de-jonghe-bvba/be0046958/" title="Melkcentrale De Jonghe BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Melkcentrale&#x20;De&#x20;Jonghe&#x20;BVBA" title="Melkcentrale&#x20;De&#x20;Jonghe&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0046958" href="https://be.kompass.com/c/melkcentrale-de-jonghe-bvba/be0046958/" title="Melkcentrale De Jonghe BVBA" class="productMainLink">
+            <p class="company-title">Melkcentrale De Jonghe BVBA</p>
+
+            <p class="product-summary">Groothandel in zuivelproducten en eieren</p>
+            <p id="BE0046958" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0281265" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/adviesburo-david-dehenauw-comv/be0281265/" title="Adviesburo David Dehenauw COMV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Adviesburo&#x20;David&#x20;Dehenauw&#x20;COMV" title="Adviesburo&#x20;David&#x20;Dehenauw&#x20;COMV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0281265" href="https://be.kompass.com/c/adviesburo-david-dehenauw-comv/be0281265/" title="Adviesburo David Dehenauw COMV" class="productMainLink">
+            <p class="company-title">Adviesburo David Dehenauw COMV</p>
+
+            <p class="product-summary">Persagentschappen</p>
+            <p id="BE0281265" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0256611" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/pana-bvba/be0256611/" title="Pana BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Pana&#x20;BVBA" title="Pana&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0256611" href="https://be.kompass.com/c/pana-bvba/be0256611/" title="Pana BVBA" class="productMainLink">
+            <p class="company-title">Pana BVBA</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0256611" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0025038" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/diagnostic-strategie-bvba/be0025038/" title="Diagnostic &amp; Strategie BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Diagnostic&#x20;&amp;amp&#x3b;&#x20;Strategie&#x20;BVBA" title="Diagnostic&#x20;&amp;amp&#x3b;&#x20;Strategie&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0025038" href="https://be.kompass.com/c/diagnostic-strategie-bvba/be0025038/" title="Diagnostic &amp; Strategie BVBA" class="productMainLink">
+            <p class="company-title">Diagnostic &amp; Strategie BVBA</p>
+
+            <p class="product-summary">Boekhouders en boekhouders-fiscalisten</p>
+            <p id="BE0025038" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0115361" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/cobelfret-trailers-nv/be0115361/" title="Cobelfret Trailers NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Cobelfret&#x20;Trailers&#x20;NV" title="Cobelfret&#x20;Trailers&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0115361" href="https://be.kompass.com/c/cobelfret-trailers-nv/be0115361/" title="Cobelfret Trailers NV" class="productMainLink">
+            <p class="company-title">Cobelfret Trailers NV</p>
+
+            <p class="product-summary">Goederenvervoer over de weg</p>
+            <p id="BE0115361" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0147921" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/neptunus-groep-nv/be0147921/" title="Neptunus Groep NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Neptunus&#x20;Groep&#x20;NV" title="Neptunus&#x20;Groep&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0147921" href="https://be.kompass.com/c/neptunus-groep-nv/be0147921/" title="Neptunus Groep NV" class="productMainLink">
+            <p class="company-title">Neptunus Groep NV</p>
+
+            <p class="product-summary">Overige drukkerijen</p>
+            <p id="BE0147921" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0218412" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/verdetex-bvba/be0218412/" title="Verdetex BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Verdetex&#x20;BVBA" title="Verdetex&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0218412" href="https://be.kompass.com/c/verdetex-bvba/be0218412/" title="Verdetex BVBA" class="productMainLink">
+            <p class="company-title">Verdetex BVBA</p>
+
+            <p class="product-summary">Catering</p>
+            <p id="BE0218412" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0163533" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/beach-palace-bvba/be0163533/" title="Beach Palace BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Beach&#x20;Palace&#x20;BVBA" title="Beach&#x20;Palace&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0163533" href="https://be.kompass.com/c/beach-palace-bvba/be0163533/" title="Beach Palace BVBA" class="productMainLink">
+            <p class="company-title">Beach Palace BVBA</p>
+
+            <p class="product-summary">****Hotel met vergader-, seminarie- en feestzalen, banketten, restaurant, taverne, bar en beautyfarm.</p>
+            <p id="BE0163533" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0108015" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/dekempe-bvba/be0108015/" title="Dekempe BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Dekempe&#x20;BVBA" title="Dekempe&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0108015" href="https://be.kompass.com/c/dekempe-bvba/be0108015/" title="Dekempe BVBA" class="productMainLink">
+            <p class="company-title">Dekempe BVBA</p>
+
+            <p class="product-summary">Overige bouwinstallatie, n.e.g.</p>
+            <p id="BE0108015" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0033505" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/belcopet-nv/be0033505/" title="Belcopet NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Belcopet&#x20;NV" title="Belcopet&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0033505" href="https://be.kompass.com/c/belcopet-nv/be0033505/" title="Belcopet NV" class="productMainLink">
+            <p class="company-title">Belcopet NV</p>
+
+            <p class="product-summary">Groothandel in aquarium- en vijvertoebehoren.</p>
+            <p id="BE0033505" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0162925" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/rederij-stephanie-bvba/be0162925/" title="Rederij Stephanie BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Rederij&#x20;Stephanie&#x20;BVBA" title="Rederij&#x20;Stephanie&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0162925" href="https://be.kompass.com/c/rederij-stephanie-bvba/be0162925/" title="Rederij Stephanie BVBA" class="productMainLink">
+            <p class="company-title">Rederij Stephanie BVBA</p>
+
+            <p class="product-summary">Zeevisserij</p>
+            <p id="BE0162925" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Knokke-heist, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0280673" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/tinseltown-vof/be0280673/" title="Tinseltown VOF" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Tinseltown&#x20;VOF" title="Tinseltown&#x20;VOF"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0280673" href="https://be.kompass.com/c/tinseltown-vof/be0280673/" title="Tinseltown VOF" class="productMainLink">
+            <p class="company-title">Tinseltown VOF</p>
+
+            <p class="product-summary">Reclamebureaus</p>
+            <p id="BE0280673" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0183135" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/van-oost-bvba/be0183135/" title="Van Oost BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Van&#x20;Oost&#x20;BVBA" title="Van&#x20;Oost&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0183135" href="https://be.kompass.com/c/van-oost-bvba/be0183135/" title="Van Oost BVBA" class="productMainLink">
+            <p class="company-title">Van Oost BVBA</p>
+
+            <p class="product-summary">Dakwerkzaamheden</p>
+            <p id="BE0183135" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0209633" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/entr-acte-bvba/be0209633/" title="Entr&#039;acte BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Entr&amp;&#x23;039&#x3b;acte&#x20;BVBA" title="Entr&amp;&#x23;039&#x3b;acte&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0209633" href="https://be.kompass.com/c/entr-acte-bvba/be0209633/" title="Entr&#039;acte BVBA" class="productMainLink">
+            <p class="company-title">Entr&#039;acte BVBA</p>
+
+            <p class="product-summary">Reclamebureaus</p>
+            <p id="BE0209633" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0216124" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/sabot-d-or-nv/be0216124/" title="Sabot D&#039;or NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Sabot&#x20;D&amp;&#x23;039&#x3b;or&#x20;NV" title="Sabot&#x20;D&amp;&#x23;039&#x3b;or&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0216124" href="https://be.kompass.com/c/sabot-d-or-nv/be0216124/" title="Sabot D&#039;or NV" class="productMainLink">
+            <p class="company-title">Sabot D&#039;or NV</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0216124" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0266945" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/advocatenkantoor-moreau-huys-vof/be0266945/" title="Advocatenkantoor Moreau &amp; Huys VOF" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Advocatenkantoor&#x20;Moreau&#x20;&amp;amp&#x3b;&#x20;Huys&#x20;VOF" title="Advocatenkantoor&#x20;Moreau&#x20;&amp;amp&#x3b;&#x20;Huys&#x20;VOF"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0266945" href="https://be.kompass.com/c/advocatenkantoor-moreau-huys-vof/be0266945/" title="Advocatenkantoor Moreau &amp; Huys VOF" class="productMainLink">
+            <p class="company-title">Advocatenkantoor Moreau &amp; Huys VOF</p>
+
+            <p class="product-summary">Activiteiten van advocaten</p>
+            <p id="BE0266945" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0163377" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/o-k-travel-bvba/be0163377/" title="O.K. Travel BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="O.K.&#x20;Travel&#x20;BVBA" title="O.K.&#x20;Travel&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0163377" href="https://be.kompass.com/c/o-k-travel-bvba/be0163377/" title="O.K. Travel BVBA" class="productMainLink">
+            <p class="company-title">O.K. Travel BVBA</p>
+
+            <p class="product-summary">Reisbureaus</p>
+            <p id="BE0163377" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0215449" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/proholman-nv/be0215449/" title="Proholman NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Proholman&#x20;NV" title="Proholman&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0215449" href="https://be.kompass.com/c/proholman-nv/be0215449/" title="Proholman NV" class="productMainLink">
+            <p class="company-title">Proholman NV</p>
+
+            <p class="product-summary">Boekhouders en boekhouders-fiscalisten</p>
+            <p id="BE0215449" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0150146" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/carantos-bvba/be0150146/" title="Carantos BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Carantos&#x20;BVBA" title="Carantos&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0150146" href="https://be.kompass.com/c/carantos-bvba/be0150146/" title="Carantos BVBA" class="productMainLink">
+            <p class="company-title">Carantos BVBA</p>
+
+            <p class="product-summary">Groothandel in koffie, thee, cacao en specerijen</p>
+            <p id="BE0150146" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0215903" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/richmond-bvba/be0215903/" title="Richmond BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Richmond&#x20;BVBA" title="Richmond&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0215903" href="https://be.kompass.com/c/richmond-bvba/be0215903/" title="Richmond BVBA" class="productMainLink">
+            <p class="company-title">Richmond BVBA</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0215903" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0264838" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/energy-holding-bvba/be0264838/" title="Energy Holding BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Energy&#x20;Holding&#x20;BVBA" title="Energy&#x20;Holding&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0264838" href="https://be.kompass.com/c/energy-holding-bvba/be0264838/" title="Energy Holding BVBA" class="productMainLink">
+            <p class="company-title">Energy Holding BVBA</p>
+
+            <p class="product-summary">Overige vervoerondersteunende activiteiten</p>
+            <p id="BE0264838" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Zeebrugge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0264866" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/joxe-evba/be0264866/" title="Joxe EVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Joxe&#x20;EVBA" title="Joxe&#x20;EVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0264866" href="https://be.kompass.com/c/joxe-evba/be0264866/" title="Joxe EVBA" class="productMainLink">
+            <p class="company-title">Joxe EVBA</p>
+
+            <p class="product-summary">Bedrijfsmentor, advies en consultancy op het b2b niveau met strategisch management als specialisatie optimaliseert Joxé® het ...</p>
+            <p id="BE0264866" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0218740" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/ward-consulting-bvba/be0218740/" title="Ward Consulting BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Ward&#x20;Consulting&#x20;BVBA" title="Ward&#x20;Consulting&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0218740" href="https://be.kompass.com/c/ward-consulting-bvba/be0218740/" title="Ward Consulting BVBA" class="productMainLink">
+            <p class="company-title">Ward Consulting BVBA</p>
+
+            <p class="product-summary">Computerconsultancy-activiteiten</p>
+            <p id="BE0218740" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0259070" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/glc-consult-bvba/be0259070/" title="Glc-Consult BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Glc-Consult&#x20;BVBA" title="Glc-Consult&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0259070" href="https://be.kompass.com/c/glc-consult-bvba/be0259070/" title="Glc-Consult BVBA" class="productMainLink">
+            <p class="company-title">Glc-Consult BVBA</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0259070" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0256961" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/jomat-nv/be0256961/" title="Jomat NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Jomat&#x20;NV" title="Jomat&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0256961" href="https://be.kompass.com/c/jomat-nv/be0256961/" title="Jomat NV" class="productMainLink">
+            <p class="company-title">Jomat NV</p>
+
+            <p class="product-summary">Vervaardiging van medische en tandheelkundige instrumenten en benodigdheden</p>
+            <p id="BE0256961" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0260101" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/f4f-nv/be0260101/" title="F4f NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="F4f&#x20;NV" title="F4f&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0260101" href="https://be.kompass.com/c/f4f-nv/be0260101/" title="F4f NV" class="productMainLink">
+            <p class="company-title">F4f NV</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0260101" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0219019" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/your-language-bvba/be0219019/" title="Your Language BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Your&#x20;Language&#x20;BVBA" title="Your&#x20;Language&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0219019" href="https://be.kompass.com/c/your-language-bvba/be0219019/" title="Your Language BVBA" class="productMainLink">
+            <p class="company-title">Your Language BVBA</p>
+
+            <p class="product-summary">Computerconsultancy-activiteiten</p>
+            <p id="BE0219019" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0260638" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/socom-sprl/be0260638/" title="Socom SPRL" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Socom&#x20;SPRL" title="Socom&#x20;SPRL"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0260638" href="https://be.kompass.com/c/socom-sprl/be0260638/" title="Socom SPRL" class="productMainLink">
+            <p class="company-title">Socom SPRL</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0260638" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0183896" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/kape-bvba/be0183896/" title="Kape BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Kape&#x20;BVBA" title="Kape&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0183896" href="https://be.kompass.com/c/kape-bvba/be0183896/" title="Kape BVBA" class="productMainLink">
+            <p class="company-title">Kape BVBA</p>
+
+            <p class="product-summary">Ontwikkeling van residentiële bouwprojecten</p>
+            <p id="BE0183896" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0183214" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/hotel-helios-patrimonium-bvba/be0183214/" title="Hotel Helios Patrimonium BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Hotel&#x20;Helios&#x20;Patrimonium&#x20;BVBA" title="Hotel&#x20;Helios&#x20;Patrimonium&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0183214" href="https://be.kompass.com/c/hotel-helios-patrimonium-bvba/be0183214/" title="Hotel Helios Patrimonium BVBA" class="productMainLink">
+            <p class="company-title">Hotel Helios Patrimonium BVBA</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0183214" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0190299" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/albatros-bvba/be0190299/" title="Albatros BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Albatros&#x20;BVBA" title="Albatros&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0190299" href="https://be.kompass.com/c/albatros-bvba/be0190299/" title="Albatros BVBA" class="productMainLink">
+            <p class="company-title">Albatros BVBA</p>
+
+            <p class="product-summary">Overige adviesbureaus op het gebied van bedrijfsbeheer, adviesbureaus op het gebied van bedrijfsvoering</p>
+            <p id="BE0190299" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0171627" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/philips-kwaliteitsvis-bvba/be0171627/" title="Philips Kwaliteitsvis BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Philips&#x20;Kwaliteitsvis&#x20;BVBA" title="Philips&#x20;Kwaliteitsvis&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0171627" href="https://be.kompass.com/c/philips-kwaliteitsvis-bvba/be0171627/" title="Philips Kwaliteitsvis BVBA" class="productMainLink">
+            <p class="company-title">Philips Kwaliteitsvis BVBA</p>
+
+            <p class="product-summary">Catering</p>
+            <p id="BE0171627" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0170539" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/rederij-artevelde-nv/be0170539/" title="Rederij Artevelde NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Rederij&#x20;Artevelde&#x20;NV" title="Rederij&#x20;Artevelde&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0170539" href="https://be.kompass.com/c/rederij-artevelde-nv/be0170539/" title="Rederij Artevelde NV" class="productMainLink">
+            <p class="company-title">Rederij Artevelde NV</p>
+
+            <p class="product-summary">Goederenvervoer over zee- en kustwateren</p>
+            <p id="BE0170539" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0179037" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/verburgh-nv/be0179037/" title="Verburgh NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Verburgh&#x20;NV" title="Verburgh&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0179037" href="https://be.kompass.com/c/verburgh-nv/be0179037/" title="Verburgh NV" class="productMainLink">
+            <p class="company-title">Verburgh NV</p>
+
+            <p class="product-summary">Handel in eigen onroerend goed</p>
+            <p id="BE0179037" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0187484" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/k-d-nv/be0187484/" title="K &amp; D NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="K&#x20;&amp;amp&#x3b;&#x20;D&#x20;NV" title="K&#x20;&amp;amp&#x3b;&#x20;D&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0187484" href="https://be.kompass.com/c/k-d-nv/be0187484/" title="K &amp; D NV" class="productMainLink">
+            <p class="company-title">K &amp; D NV</p>
+
+            <p class="product-summary">Verspanend bewerken van metalen</p>
+            <p id="BE0187484" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0159821" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/fernand-verleye-en-zoon-bvba/be0159821/" title="Fernand Verleye En Zoon BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Fernand&#x20;Verleye&#x20;En&#x20;Zoon&#x20;BVBA" title="Fernand&#x20;Verleye&#x20;En&#x20;Zoon&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0159821" href="https://be.kompass.com/c/fernand-verleye-en-zoon-bvba/be0159821/" title="Fernand Verleye En Zoon BVBA" class="productMainLink">
+            <p class="company-title">Fernand Verleye En Zoon BVBA</p>
+
+            <p class="product-summary">Groothandel in vis en schaal- en weekdieren</p>
+            <p id="BE0159821" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0206111" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bernard-bvba/be0206111/" title="Bernard BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bernard&#x20;BVBA" title="Bernard&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0206111" href="https://be.kompass.com/c/bernard-bvba/be0206111/" title="Bernard BVBA" class="productMainLink">
+            <p class="company-title">Bernard BVBA</p>
+
+            <p class="product-summary">Overige drukkerijen</p>
+            <p id="BE0206111" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0205773" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/azaert-nv/be0205773/" title="Azaert NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Azaert&#x20;NV" title="Azaert&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0205773" href="https://be.kompass.com/c/azaert-nv/be0205773/" title="Azaert NV" class="productMainLink">
+            <p class="company-title">Azaert NV</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0205773" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0204958" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/alfa-inn-bvba/be0204958/" title="Alfa Inn BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Alfa&#x20;Inn&#x20;BVBA" title="Alfa&#x20;Inn&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0204958" href="https://be.kompass.com/c/alfa-inn-bvba/be0204958/" title="Alfa Inn BVBA" class="productMainLink">
+            <p class="company-title">Alfa Inn BVBA</p>
+
+            <p class="product-summary">Hotels en dergelijke accommodatie</p>
+            <p id="BE0204958" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0206359" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/bouwbedrijf-cocquyt-bvba/be0206359/" title="Bouwbedrijf Cocquyt BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Bouwbedrijf&#x20;Cocquyt&#x20;BVBA" title="Bouwbedrijf&#x20;Cocquyt&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0206359" href="https://be.kompass.com/c/bouwbedrijf-cocquyt-bvba/be0206359/" title="Bouwbedrijf Cocquyt BVBA" class="productMainLink">
+            <p class="company-title">Bouwbedrijf Cocquyt BVBA</p>
+
+            <p class="product-summary">Algemene bouw van residentiële gebouwen</p>
+            <p id="BE0206359" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0175969" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/rederij-zuiderzee-bvba/be0175969/" title="Rederij Zuiderzee BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Rederij&#x20;Zuiderzee&#x20;BVBA" title="Rederij&#x20;Zuiderzee&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0175969" href="https://be.kompass.com/c/rederij-zuiderzee-bvba/be0175969/" title="Rederij Zuiderzee BVBA" class="productMainLink">
+            <p class="company-title">Rederij Zuiderzee BVBA</p>
+
+            <p class="product-summary">Zeevisserij</p>
+            <p id="BE0175969" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Knokke-heist, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0173973" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/vancouillie-bvba/be0173973/" title="Vancouillie BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Vancouillie&#x20;BVBA" title="Vancouillie&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0173973" href="https://be.kompass.com/c/vancouillie-bvba/be0173973/" title="Vancouillie BVBA" class="productMainLink">
+            <p class="company-title">Vancouillie BVBA</p>
+
+            <p class="product-summary">Ontwikkeling van residentiële bouwprojecten</p>
+            <p id="BE0173973" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0169866" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/drukkerij-callier-bvba/be0169866/" title="Drukkerij Callier BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Drukkerij&#x20;Callier&#x20;BVBA" title="Drukkerij&#x20;Callier&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0169866" href="https://be.kompass.com/c/drukkerij-callier-bvba/be0169866/" title="Drukkerij Callier BVBA" class="productMainLink">
+            <p class="company-title">Drukkerij Callier BVBA</p>
+
+            <p class="product-summary">Overige drukkerijen</p>
+            <p id="BE0169866" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0206019" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/beeware-systems-bvba/be0206019/" title="Beeware Systems BVBA" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Beeware&#x20;Systems&#x20;BVBA" title="Beeware&#x20;Systems&#x20;BVBA"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0206019" href="https://be.kompass.com/c/beeware-systems-bvba/be0206019/" title="Beeware Systems BVBA" class="productMainLink">
+            <p class="company-title">Beeware Systems BVBA</p>
+
+            <p class="product-summary">Overige diensten op het gebied van informatietechnologie en computer</p>
+            <p id="BE0206019" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0195514" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/assurwest-nv/be0195514/" title="Assurwest NV" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Assurwest&#x20;NV" title="Assurwest&#x20;NV"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0195514" href="https://be.kompass.com/c/assurwest-nv/be0195514/" title="Assurwest NV" class="productMainLink">
+            <p class="company-title">Assurwest NV</p>
+
+            <p class="product-summary">Verzekeringsmakelaar.</p>
+            <p id="BE0195514" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0334358" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/het-strijkatelier-vzw/be0334358/" title="Het Strijkatelier VZW" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Het&#x20;Strijkatelier&#x20;VZW" title="Het&#x20;Strijkatelier&#x20;VZW"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0334358" href="https://be.kompass.com/c/het-strijkatelier-vzw/be0334358/" title="Het Strijkatelier VZW" class="productMainLink">
+            <p class="company-title">Het Strijkatelier VZW</p>
+
+            <p id="BE0334358" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+<div id="seoProdListBE0345240" class="prod_list cc_col-lg-4 cc_col-md-6 cc_col-sm-6 cc_col-xs-12 ">
+    <div class="thumb">
+        <a href="https://be.kompass.com/c/van-hee-franky-m/be0345240/" title="Van Hee Franky M" class="productMainLink">
+            <div  class="kompassImage " style="height: 87px; width: 87px;">
+	<img  class="" width="87" height="87"
+		src="//cdn.kompass.com/_ui/desktop/theme-kompass/images/company-default-logo.png"
+		alt="Van&#x20;Hee&#x20;Franky&#x20;M" title="Van&#x20;Hee&#x20;Franky&#x20;M"  />
+</div></a>
+    </div>
+
+    <div class="details nomen">
+        <a id="seoCompanyLinkBE0345240" href="https://be.kompass.com/c/van-hee-franky-m/be0345240/" title="Van Hee Franky M" class="productMainLink">
+            <p class="company-title">Van Hee Franky M</p>
+
+            <p id="BE0345240" class="productsLink"><span class="cc_glyphicon cc_glyphicon-map-marker"></span>Blankenberge, België</p>
+        </a>
+
+        </div>
+</div>
+</div>
