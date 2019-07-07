@@ -9,4 +9,4 @@ The links leading to the companies are being stored in a list. After that, the r
 After that you can easily export everything to a Word or excel file if you like. Due to lack of time, I was unable to implement this in the program, but that is something I will do in the near future.
 
 This program is written in Python 3.5. Use PIP if you need to install additional modules.
-T.
+
